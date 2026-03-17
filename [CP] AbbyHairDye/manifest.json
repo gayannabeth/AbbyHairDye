@@ -1,0 +1,12 @@
+{
+	"Name": "Abby Hair Dye",
+	"Author": "gayannabeth",
+	"Version": "1.0.0",
+	"Description": "Allows changing Abigail's hair colour.",
+	"UniqueID": "gayannabeth.AbbyHairDye",
+	"UpdateKeys": [],
+	"ContentPackFor": {
+		"UniqueID": "Pathoschild.ContentPatcher"
+	},
+	"Dependencies": []
+}
