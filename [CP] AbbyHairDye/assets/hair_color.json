@@ -1,0 +1,46 @@
+{
+	"Changes": [
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Abigail",
+			"FromFile": "assets/images/abby_hair_{{HairColor}}.png",
+			"FromArea": {"X": 0, "Y": 0, "Width": 128, "Height": 320},
+			"PatchMode": "Overlay"
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Abigail_Beach",
+			"FromFile": "assets/images/abby_hair_{{HairColor}}.png",
+			"FromArea": {"X": 128, "Y": 0, "Width": 128, "Height": 320},
+			"PatchMode": "Overlay"
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Abigail_Winter",
+			"FromFile": "assets/images/abby_hair_{{HairColor}}.png",
+			"FromArea": {"X": 256, "Y": 0, "Width": 128, "Height": 320},
+			"PatchMode": "Overlay"
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Characters/Abigail",
+			"FromFile": "assets/images/abby_hair_{{HairColor}}.png",
+			"FromArea": {"X": 0, "Y": 320, "Width": 64, "Height": 448},
+			"PatchMode": "Overlay"
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Characters/Abigail_Beach",
+			"FromFile": "assets/images/abby_hair_{{HairColor}}.png",
+			"FromArea": {"X": 128, "Y": 320, "Width": 64, "Height": 160},
+			"PatchMode": "Overlay"
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Characters/Abigail_Winter",
+			"FromFile": "assets/images/abby_hair_{{HairColor}}.png",
+			"FromArea": {"X": 256, "Y": 320, "Width": 64, "Height": 448},
+			"PatchMode": "Overlay"
+		}
+	]
+}

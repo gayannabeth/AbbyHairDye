@@ -1,0 +1,19 @@
+{
+	"Format": "2.9.0",
+	"ConfigSchema": {
+		"HairColor": {
+			"AllowValues": "black, blonde, blue, brown, cyan, green, neon_green, pink, purple, red",
+			"default": "purple"
+		}
+	},
+	"Changes": [
+		{
+			"Action": "Include",
+			"FromFile": "assets/hair_color.json",
+			"When": {
+				"Query: '{{HairColor}}' = 'purple'": false
+			},
+			"LogName": "Hair Color"
+		}
+	]
+}

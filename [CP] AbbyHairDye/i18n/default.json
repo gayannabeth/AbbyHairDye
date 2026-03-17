@@ -1,0 +1,13 @@
+{
+	"config.HairColor.name": "Abigail's Hair Color",
+	"config.HairColor.values.black": "Black",
+	"config.HairColor.values.blonde": "Blonde",
+	"config.HairColor.values.blue": "Blue",
+	"config.HairColor.values.brown": "Brown",
+	"config.HairColor.values.cyan": "Cyan",
+	"config.HairColor.values.green": "Green",
+	"config.HairColor.values.neon_green": "Neon Green",
+	"config.HairColor.values.pink": "Pink",
+	"config.HairColor.values.purple": "Purple",
+	"config.HairColor.values.red": "Red"
+}
